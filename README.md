@@ -3,7 +3,7 @@
 - 🌱 I’m currently working with stm32, altium
 - 💞️ I’m looking to collaborate on frimware devlopment
 - 📫 How to reach me: shohanur.waltonbd@gmail.com
-- 😄 Pronouns: He
+- 😄 pronouns: developer
 - ⚡ Fun fact: Best of Luck
 
 <!---
