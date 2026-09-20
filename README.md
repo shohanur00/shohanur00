@@ -11,7 +11,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/engr-shohanur-rahman-181a69250/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shohanur.dev@gmail.com"><img src="https://img.shields.io/badge/Email-shohanur.dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/shohanur00?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories"/></a>
 </p>
 
@@ -65,4 +64,4 @@ Custom STM32-based flight controller.
 ## Connect
 
 - LinkedIn: [linkedin.com/in/engr-shohanur-rahman-181a69250](https://www.linkedin.com/in/engr-shohanur-rahman-181a69250/)
-- Email: [shohanur.dev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=shohanur.dev@gmail.com) (opens Gmail compose)
+- Email: listed on my profile
